@@ -1,0 +1,1 @@
+A simple PHP based RSS Feed generator, which makes use of the PHP native DOMDocument library.
